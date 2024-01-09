@@ -17,3 +17,4 @@
 # You can check the source code for better understanding.
 
 ## Let's try out the working demo here 👇🏻
+https://multilanguage-invoice-extractor-lqpenikvoi4gesw7z9utrr.streamlit.app/
